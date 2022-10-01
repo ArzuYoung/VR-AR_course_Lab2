@@ -79,12 +79,12 @@
 
 12.	Вернитесь в Unity и настройте запуск проекта через SteamVR;
 
-![alt text](ScreenShots/pic1.12.png)
+![alt text](ScreenShots/pic1.12.PNG)
 
 13.	 Добавьте объект Plane;
 14.	 Добавьте на сцену объект XR-Orig (Action Base);
 
-![alt text](ScreenShots/pic1.13-14.png)
+![alt text](ScreenShots/pic1.13-14.PNG)
 
 15.	 На объект XR Interaction Manager создайте компонент Input Action Manager;
 16.	 Добавьте в Input Action Manager настроенный Input System;
@@ -94,7 +94,7 @@
 17.	 Запустите проект и убедитесь, что он воспроизводится на VR 
 оборудовании.
 
-![alt text](ScreenShots/pic1.17.png)
+![alt text](ScreenShots/pic1.17.PNG)
 
 ## Задание 2
 ### Ответьте на контрольные вопросы:
