@@ -68,9 +68,13 @@
 11.	Настройте и подключите к PC ваше VR оборудование;
 
 ![alt text](ScreenShots/pic1.11.1.png)
+
 ![alt text](ScreenShots/pic1.11.2.png)
+
 ![alt text](ScreenShots/pic1.11.3.png)
+
 ![alt text](ScreenShots/pic1.11.4.png)
+
 ![alt text](ScreenShots/pic1.11.5.png)
 
 12.	Вернитесь в Unity и настройте запуск проекта через SteamVR;
