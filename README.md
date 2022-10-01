@@ -69,13 +69,13 @@
 
 ![alt text](ScreenShots/pic1.11.1.png)
 
-![alt text](ScreenShots/pic1.11.2.png)
+![alt text](ScreenShots/pic1.11.2.PNG)
 
-![alt text](ScreenShots/pic1.11.3.png)
+![alt text](ScreenShots/pic1.11.3.PNG)
 
-![alt text](ScreenShots/pic1.11.4.png)
+![alt text](ScreenShots/pic1.11.4.PNG)
 
-![alt text](ScreenShots/pic1.11.5.png)
+![alt text](ScreenShots/pic1.11.5.PNG)
 
 12.	Вернитесь в Unity и настройте запуск проекта через SteamVR;
 
